@@ -5,8 +5,7 @@
 Linux 發展全圖
 ---
 
-![](https://hackmd.io/_uploads/H1JjpFPn2.png)
-
+![圖庫/1000px-Unix_history-simple.png](https://github.com/humblekyle/LinuxProgramming/blob/master/%E5%9C%96%E5%BA%AB/1000px-Unix_history-simple.png)
 
   
 Unix (Uniplexed Information and Computing Service)
@@ -35,7 +34,7 @@ POSIX (Portable Operation System Interface)
 一種介於Application 及 System Kernal之間的API規範。  
 舉例Amazon將 FreeRTOS上建置POSIX, 使得Linux上的Application code可以於MCU上運行
 
-
+![image](https://github.com/humblekyle/LinuxProgramming/blob/48ba2e1c1fefe9d68e0ee5508aebd6a7afc92ef1/%E5%9C%96%E5%BA%AB/Unix%E6%A8%99%E6%BA%96%E6%99%82%E9%96%93%E7%B7%9A.png)
 
 ___
 
