@@ -23,7 +23,11 @@
 
 超級用戶
 ---
+通常UID = 0, 名稱為root, 可以繞過所有權限檢查訪問任何文件。系統管理員使用超級用戶來管理系統。
 
 
-[Linux User&Group實戰教學](https://www.runoob.com/linux/linux-user-manage.html)
+
+*Ref:  
+[Linux User&Group實戰教學]
+(https://www.runoob.com/linux/linux-user-manage.html)
 
